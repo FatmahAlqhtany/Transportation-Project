@@ -111,7 +111,7 @@ let date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
       console.log('Flyer and car. Not Match')
      }
   }
-  myFunction(2, 4);
+  myFunction(5, 5);
   const print = Booking_Array.map(function(curruntValue){
       return curruntValue ;
   })
